@@ -1,0 +1,16 @@
+{
+  "name": "holygrail",
+  "version": "1.0.0",
+  "description": "node app for holygrail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dan.phillips888@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "ioredis": "^4.28.5",
+    "redis": "^4.0.4"
+  }
+}
